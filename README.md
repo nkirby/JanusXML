@@ -1,6 +1,4 @@
 # JanusXML
-
-[![CI Status](http://img.shields.io/travis/Nathaniel Kirby/JanusXML.svg?style=flat)](https://travis-ci.org/Nathaniel Kirby/JanusXML)
 [![Version](https://img.shields.io/cocoapods/v/JanusXML.svg?style=flat)](http://cocoapods.org/pods/JanusXML)
 [![License](https://img.shields.io/cocoapods/l/JanusXML.svg?style=flat)](http://cocoapods.org/pods/JanusXML)
 [![Platform](https://img.shields.io/cocoapods/p/JanusXML.svg?style=flat)](http://cocoapods.org/pods/JanusXML)
