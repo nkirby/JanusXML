@@ -1,0 +1,6 @@
+framework module JanusXML {
+  umbrella header "JanusXML-umbrella.h"
+
+  export *
+  module * { export * }
+}

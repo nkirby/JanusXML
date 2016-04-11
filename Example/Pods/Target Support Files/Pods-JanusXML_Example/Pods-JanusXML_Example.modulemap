@@ -1,0 +1,6 @@
+framework module Pods_JanusXML_Example {
+  umbrella header "Pods-JanusXML_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,12 +1,12 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-target 'JanusXML_Example', :exclusive => true do
+target 'JanusXML_Example' do
   pod 'JanusXML', :path => '../'
 end
 
-target 'JanusXML_Tests', :exclusive => true do
+target 'JanusXML_Tests' do
   pod 'JanusXML', :path => '../'
 
-  
+
 end

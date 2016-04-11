@@ -1,0 +1,16 @@
+PODS:
+  - JanusXML (0.1.0)
+
+DEPENDENCIES:
+  - JanusXML (from `../`)
+
+EXTERNAL SOURCES:
+  JanusXML:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JanusXML: 156140ab67350b22c62edd90cc289723186f2531
+
+PODFILE CHECKSUM: a3ec556b4362b481fd9d6e6fc88775be3df5d1be
+
+COCOAPODS: 1.0.0.beta.5
